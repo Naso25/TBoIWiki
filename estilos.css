@@ -1,0 +1,106 @@
+@font-face{ 
+		font-family:"Upheaval TT (BRK)";
+		src:url("fuentes/upheavtt.ttf");	
+}
+
+body{
+	background-color:#f4e2a7ff;
+	background-attachment: fixed;
+}
+
+h1{
+	font-family:"Upheaval TT (BRK)";
+	text-align:center;
+	font-size:50px;
+	color:#b9522d; 
+}
+
+h2{ 
+	color: #75331cff;
+	text-align:center;
+	font-size:28px;
+	font-family: Courier;
+}
+
+p{
+	font-family: Courier;
+	text-align:justify;
+	line-height:30px;
+	margin-top:30px;
+	margin-left:10%;
+	margin-right:10%;
+	font-size:20px;
+	color:#75331cff;
+}
+
+img{
+	display:block;
+	margin:auto;
+	margin-bottom:1%;
+	border: inset; 
+	border-radius:20px;
+	box-shadow:5px 5px 7px black;
+}
+
+ul{
+	font-family: Courier;
+	text-align:justify;
+	line-height:30px;
+	margin-top:30px;
+	margin-left:10%;
+	margin-right:10%;
+	font-size:20px;
+	color:#75331cff;
+}
+
+table{
+	font-family:Courier;
+	color:#75331cff;
+	font-size:15px;
+	margin-left:35%;
+	margin-right:35%;
+	display:block;
+	border: inset; 
+	border-radius:20px;
+	box-shadow:5px 5px 7px black;
+}
+
+a:link{
+	color:#5b3209;
+	margin-left:3%;
+	margin-right:3%;
+	font-size:20px;
+}
+
+a:visited{
+	color:#5b3209;
+}
+
+.e2{
+	display:inline; 
+	border: inset; 
+	border-radius:20px;
+	margin-left:10%;
+	margin-right:7%;
+	box-shadow:5px 5px 7px black;
+}
+
+.e3{
+	display:inline; 
+	margin-left:1%;
+	border: inset; 
+	border-radius:20px;	
+	box-shadow:5px 5px 7px black;
+}
+
+.e4{
+	display:inline; 
+	border: inset; 
+	border-radius:20px;
+	margin-left:19%;
+	box-shadow:5px 5px 7px black;
+}
+
+.e5:hover{
+	background-color:#e6bc33;
+}
